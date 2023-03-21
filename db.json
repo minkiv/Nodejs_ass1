@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "price": 34,
+      "description": "json-server"
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "price": 34,
+      "description": "json-server"
+    },
+    {
+      "id": 3,
+      "name": "json-server",
+      "price": 34,
+      "description": "json-server"
+    },
+    {
+      "name": "Product 9",
+      "description": "Product 1",
+      "id": 4
+    }
+  ]
+}
